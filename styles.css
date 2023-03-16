@@ -1,0 +1,56 @@
+h1 {
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+.landing {
+    margin-left: 50px;
+    display: flex;
+    justify-content: center;
+    height: 300px;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+    margin-bottom: 450px;  
+}
+
+button {
+	background-image: linear-gradient(#B93038,black, black, #B93038);
+    color:white;
+    padding-left:10px;
+    padding-right:10px;
+    padding-top:5px;
+    padding-bottom:5px;
+}
+
+.wingmanp {
+    margin-left: 200px;
+}
+
+.survive {
+    margin-left: 200px;
+}
+
+.skyhook {
+    margin-left: 20px;
+}
+
+.looting {
+    margin-left: 20px;
+}
+
+.boxes {
+    margin-left: 20px;
+}
+
+.win {
+    margin-left: 20px;
+}
+
+body {
+    background-image: linear-gradient(black, #B93038, #B93038, black);
+}
